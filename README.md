@@ -13,5 +13,5 @@ This repository contains beginner-friendly Java programs written by **Naga Harsh
 
 ## 👩‍💻 About Me
 - 🎓 B.Tech IT Student @ VBIT
-- 💻 Skills: Java, Python, SQL, Arduino, Power BI
+- 💻 Skills: Java,SQL, Arduino, Power BI
 - 🔬 Project: Smart Glove for Dumb and Deaf People
